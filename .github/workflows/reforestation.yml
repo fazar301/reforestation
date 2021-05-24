@@ -2,7 +2,7 @@ name: Commit cheat
 
 on:
 
-  push:
+  push: 
     branches:
       - main
       
